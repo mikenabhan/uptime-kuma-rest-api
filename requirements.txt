@@ -1,0 +1,3 @@
+flask
+uptime-kuma-api
+MarkupSafe
